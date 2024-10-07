@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Kalophe
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning Computer Science
+- ARCH LOVER
 - 📫 How to reach me kalophe.pro@gmail.com
 
 <!---
